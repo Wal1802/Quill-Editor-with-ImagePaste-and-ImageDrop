@@ -1,2 +1,12 @@
-# Quill-Editor-with-ImagePaste-and-ImageDrop
-Created with CodeSandbox
+# test-project
+
+> A Vue.js project
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
